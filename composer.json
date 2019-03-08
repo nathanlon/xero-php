@@ -18,6 +18,10 @@
     },
 
     "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:nathanlon/xero-php.git"
+        }
     ],
 
     "autoload": {
