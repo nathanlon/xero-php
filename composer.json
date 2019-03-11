@@ -1,5 +1,5 @@
 {
-    "name": "nathanlon/xero-php",
+    "name": "calcinai/xero-php",
     "type": "library",
     "description": "A client implementation of the Xero API, with a cleaner OAuth interface and ORM-like abstraction.",
     "homepage": "https://github.com/calcinai/xero-php",
@@ -17,13 +17,6 @@
         "fabpot/goutte": "~2.0",
         "twig/twig": "1.16.2"
     },
-
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:nathanlon/xero-php.git"
-        }
-    ],
 
     "autoload": {
         "psr-4": {
