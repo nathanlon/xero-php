@@ -22,6 +22,11 @@
         "psr-4": {
             "XeroPHP\\": "src/XeroPHP/"
         }
-    }
-
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:nathanlon/xero-php.git"
+        }
+    ]
 }
